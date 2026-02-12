@@ -1,0 +1,12 @@
+{
+  "name": "akkutgbot",
+  "version": "1.0.0",
+  "description": "Telegram Bot",
+  "main": "index.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
